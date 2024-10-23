@@ -12,3 +12,5 @@ https://github.com/Mounikabethi12/2303A52196AIML/blob/main/AIML_LAB_5.ipynb
 https://github.com/Mounikabethi12/2303A52196AIML/blob/main/AIML_LAB_6.ipynb
 
 https://github.com/Mounikabethi12/2303A52196AIML/blob/main/AIML_LAB_7.ipynb
+
+https://github.com/Mounikabethi12/2303A52196AIML/blob/main/AIML_LAB_10.ipynb
